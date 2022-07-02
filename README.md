@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Florian SIMBA
 - 👀 I’m interested in web & mobile design
-- 🌱 I’m currently learning Software engineering 
-- 💞️ I'm actively looking for a permanent contract in the field of web or mobile development
+- 🌱 I’m currently Software developper 
+- 💞️ I'm working at Capgemini
 - 📫 Let's check my portfolio (florian-simba.emi.u-bordeaux.fr)
 
 <!---
